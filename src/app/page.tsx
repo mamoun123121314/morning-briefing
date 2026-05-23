@@ -179,6 +179,7 @@ export default function LandingPage() {
               <Link href="/privacy" className="text-text-secondary hover:text-foreground transition-colors">Privacy</Link>
               <Link href="/terms" className="text-text-secondary hover:text-foreground transition-colors">Terms</Link>
               <Link href="/changelog" className="text-text-secondary hover:text-foreground transition-colors">Changelog</Link>
+              <Link href="/api/health" className="text-text-secondary hover:text-foreground transition-colors">Status</Link>
               <Link href="/auth/login" className="text-text-secondary hover:text-foreground transition-colors">Sign In</Link>
             </div>
           </div>
