@@ -36,15 +36,15 @@ export const metadata: Metadata = {
   keywords: ['daily briefing', 'morning routine', 'habit tracker', 'journal', 'weather dashboard', 'AI insights', 'productivity', 'personal dashboard'],
   authors: [{ name: 'Morning Briefing' }],
   creator: 'Morning Briefing',
-  metadataBase: new URL('https://daily-briefing-lime.vercel.app'),
+  metadataBase: new URL('https://papaya-capybara-2d13fb.netlify.app'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://daily-briefing-lime.vercel.app',
+    url: 'https://papaya-capybara-2d13fb.netlify.app',
     siteName: 'Morning Briefing',
     title: 'Morning Briefing — Your daily ritual',
     description: 'A personalized dashboard that brings together weather, news, habits, journaling, community, and AI-powered insights. Start each day with clarity.',
-    images: [{ url: 'https://daily-briefing-lime.vercel.app/og-image.png', width: 1200, height: 630 }],
+    images: [{ url: 'https://papaya-capybara-2d13fb.netlify.app/og-image.png', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',

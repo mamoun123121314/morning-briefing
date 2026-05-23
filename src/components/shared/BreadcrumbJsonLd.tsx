@@ -8,7 +8,7 @@ export function BreadcrumbJsonLd({ items }: { items: Crumb[] }) {
       '@type': 'ListItem',
       position: i + 1,
       name: item.name,
-      item: `https://daily-briefing-lime.vercel.app${item.url}`,
+      item: `https://papaya-capybara-2d13fb.netlify.app${item.url}`,
     })),
   };
 

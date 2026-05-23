@@ -12,7 +12,7 @@ export default function LandingPage() {
             '@context': 'https://schema.org',
             '@type': 'WebApplication',
             name: 'Morning Briefing',
-            url: 'https://daily-briefing-lime.vercel.app',
+            url: 'https://papaya-capybara-2d13fb.netlify.app',
             description: 'A personalized daily briefing dashboard with weather, news, habits, journaling, community leaderboards, and AI-powered insights.',
             applicationCategory: 'LifestyleApplication',
             operatingSystem: 'Web',

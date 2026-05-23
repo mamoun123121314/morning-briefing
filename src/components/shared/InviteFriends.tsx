@@ -8,7 +8,7 @@ import { Users, Copy, Check, Share2, X, Mail } from 'lucide-react';
 
 export function InviteFriends() {
   const [copied, setCopied] = useState(false);
-  const inviteLink = 'https://daily-briefing-lime.vercel.app';
+  const inviteLink = 'https://papaya-capybara-2d13fb.netlify.app';
 
   const shareText = `Start each day with clarity! 🌅 Morning Briefing is a free daily dashboard with weather, news, habits, journaling, achievements, and community leaderboards. Try it: ${inviteLink}`;
 

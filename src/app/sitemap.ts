@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = 'https://daily-briefing-lime.vercel.app';
+  const base = 'https://papaya-capybara-2d13fb.netlify.app';
 
   return [
     { url: base, lastModified: new Date(), changeFrequency: 'monthly', priority: 1 },

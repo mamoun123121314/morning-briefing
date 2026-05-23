@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/auth/callback'],
     },
-    sitemap: 'https://daily-briefing-lime.vercel.app/sitemap.xml',
+    sitemap: 'https://papaya-capybara-2d13fb.netlify.app/sitemap.xml',
   };
 }
